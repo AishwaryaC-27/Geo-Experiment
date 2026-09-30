@@ -82,4 +82,4 @@ The **2.5% effect** is used as a planning/detection target and is not a guarante
 
 The repository includes an interactive HTML report with the main figures and supporting analysis used to assess experiment feasibility, statistical sensitivity, and potential risks.
 
-> **Note:** This is a **pre-test experiment planning analysis**. It does not claim an observed treatment effect. Formal GeoX/GeoLift validation should be completed before the experiment is launched.
+
