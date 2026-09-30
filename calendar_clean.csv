@@ -1,0 +1,8 @@
+state_scope,start_date,end_date,event,operations_note,affected_states
+ALL,2026-03-23,2026-03-29,National spring sale,Same offer and dates in all 16 states. No repeat planned during June.,"['CA', 'CO', 'FL', 'GA', 'IN', 'KY', 'MI', 'MO', 'NC', 'NV', 'OH', 'PA', 'SC', 'TN', 'TX', 'WI']"
+GA,2026-04-13,2026-04-16,Warehouse revenue feed incident,Daily sales export returned zero when incomplete. Spend and platform reports unaffected. Audited 28-day state totals are independent of this feed.,['GA']
+TX,2026-04-27,,Fulfilment expansion,New distribution capacity went live. No rollback planned.,['TX']
+CO,2026-05-04,,Platform reporting change,Paid-social attribution window changed from 7-day click to 28-day click. Finance revenue definition unchanged.,['CO']
+FL,2026-06-08,2026-06-21,Local online promotion,"State-only 20% online discount and email push, approved and cannot be cancelled.",['FL']
+CA,2026-06-01,2026-06-28,Media contract,June paid-social spend must remain at business-as-usual.,['CA']
+NC;SC,2026-06-01,2026-06-28,Shared media buying group,One budget and targeting instruction for NC and SC. Both must receive the same spend policy.,"['NC', 'SC']"
